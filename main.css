@@ -172,8 +172,8 @@ header h2 {
 }
 
 .sectiononeimagemain {
-    background-color: pink;
-    background-image: url();
+    background-color: clear;
+    background-image: url(media/pictures/test2.jpg);
     background-size: cover;
     width: 500px;
     height: 281.25px;
